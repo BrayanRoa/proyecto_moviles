@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845160926621",
+    "project_id": "bonappetit-e21c2",
+    "storage_bucket": "bonappetit-e21c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845160926621:android:1898314fbdb5f6c724f374",
+        "android_client_info": {
+          "package_name": "com.example.bonappetit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845160926621-n5364oq7sta714jn21fng3dv7ug702du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ms3bZ6AQnU9DLyKyVs117LgiJjymhj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845160926621-n5364oq7sta714jn21fng3dv7ug702du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

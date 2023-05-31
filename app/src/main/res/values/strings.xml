@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BonAppetit</string>
+    <string name="butIniciar">Inicio</string>
+    <string name="texNoUsuario">"¿Sin usuario? "</string>
+    <string name="texCrearusuario">Registrarse</string>
+    <string name="msgClave">Contraseña</string>
+    <string name="msgUsuario">Usuario</string>
+    <string name="content_description_media">user img</string>
+    <string name="texto_bienvenida">¿Qué cocinaremos hoy?</string>
+    <string name="buscar">Buscar</string>
+    <string name="butExplorar">Exploremos</string>
+    <string name="btn_registarse">Registrarse</string>
+    <string name="textNam1">Pasta con carne molida</string>
+    <string name="textNam2">Pasta con pollo y tocino</string>
+    <string name="textTiempo2">35 Minutos - Preparación</string>
+    <string name="mas">Mas información</string>
+    <string name="textTiempo1">50 Minutos - Preparacion</string>
+    <string name="textNam4">Pasta con pollo en salsa blanca</string>
+    <string name="textNam3">Salsa de Champiñones</string>
+    <string name="paso1">Paso 1:</string>
+    <string name="rest_descripcion_3">En una sartén cocinar el tocino hasta que este dorado, retirar, y en la misma grasa agregar ajo y cebolla</string>
+    <string name="paso2">Paso 2:</string>
+    <string name="des2">Agregar los cubos de pollo y cocinar.</string>
+    <string name="paso3">Paso 3:</string>
+    <string name="des3">Llevar a ebullición y agregar la crema y el tocino, sazonar con Knorr® Professional Caldo de pollo.</string>
+    <string name="paso4">Paso 4:</string>
+    <string name="des4">Mezclar la pasta con la salsa y servir con queso parmesano rallado.</string>
+    <string name="butIngre">Ingredientes</string>
+</resources>
